@@ -18,5 +18,5 @@ lalu masukan kode perintah untuk menjalankan script , kode ini untuk daftar dan 
 
 Cd kangkung
 
-php nkangkung.php
+php kangkung.php
 
