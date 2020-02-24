@@ -25,7 +25,7 @@ endif;
 if ($uuid):
 $header[] = "User-uuid: $uuid";
 endif;
-$c = curl_init("https://api.gojekapi.c0m".$url);
+$c = curl_init("https://api.gojekapi.com".$url);
     curl_setopt($c, CURLOPT_FOLLOWLOCATION, true);
     curl_setopt($c, CURLOPT_SSL_VERIFYPEER, false);
     if ($data):
