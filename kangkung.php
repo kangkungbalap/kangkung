@@ -6,8 +6,8 @@ echo color("red","| Golek Voucher Gojek|\n");
 echo color("red","| Auto create Gojek X Redeem voucher |\n");
 echo color("red","| github: kangkungbalap |\n");
 echo color("red","| fanspage :kangkunglovers|\n");
-echo color("red","| Creator : KangkungBalap          |\n");
-echo "| Version : Pertamax X pertalite      |\n";
+echo color("red","| Creator : kangkungkalap          |\n");
+echo "| Version : Premium X pertalite      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
